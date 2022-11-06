@@ -1,0 +1,6 @@
+﻿  uppgift1.cpp
+C:\Users\jarja\Documents\Programmering grk\lab4\lab4\code\uppgift1.cpp(106): warning C4715: 'test_prime': not all control paths return a value
+C:\Users\jarja\Documents\Programmering grk\lab4\lab4\code\uppgift1.cpp(119): warning C4715: 'next_prime': not all control paths return a value
+C:\Users\jarja\Documents\Programmering grk\lab4\lab4\code\uppgift1.cpp(131): warning C4715: 'prev_prime': not all control paths return a value
+C:\Users\jarja\Documents\Programmering grk\lab4\lab4\code\uppgift1.cpp(138): warning C4715: 'display_primes': not all control paths return a value
+  uppgift1.vcxproj -> C:\Users\jarja\Documents\Programmering grk\lab4\lab4\build\Debug\uppgift1.exe

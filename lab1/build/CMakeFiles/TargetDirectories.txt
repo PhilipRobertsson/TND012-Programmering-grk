@@ -1,4 +1,0 @@
-C:/Users/jarja/Documents/lab1/build/CMakeFiles/uppgift1.dir
-C:/Users/jarja/Documents/lab1/build/CMakeFiles/uppgift2.dir
-C:/Users/jarja/Documents/lab1/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/jarja/Documents/lab1/build/CMakeFiles/ZERO_CHECK.dir

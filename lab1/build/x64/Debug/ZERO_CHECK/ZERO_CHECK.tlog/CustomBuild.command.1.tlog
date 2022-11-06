@@ -1,0 +1,10 @@
+^C:\USERS\JARJA\DOCUMENTS\LAB1\BUILD\CMAKEFILES\3F6C82A9F45BAB2006542045150DB4C2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jarja/Documents/lab1/code -BC:/Users/jarja/Documents/lab1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/jarja/Documents/lab1/build/TND012-Lab-1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

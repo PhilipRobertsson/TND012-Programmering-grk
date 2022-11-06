@@ -1,0 +1,3 @@
+C:/Users/jarja/Documents/Programmering grk/lab5/lab5/build/CMakeFiles/uppgift1.dir
+C:/Users/jarja/Documents/Programmering grk/lab5/lab5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jarja/Documents/Programmering grk/lab5/lab5/build/CMakeFiles/ZERO_CHECK.dir

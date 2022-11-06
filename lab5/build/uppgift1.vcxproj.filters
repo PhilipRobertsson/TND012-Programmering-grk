@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jarja\Documents\Programmering grk\lab5\lab5\code\uppgift1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jarja\Documents\Programmering grk\lab5\lab5\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E4C0BBD3-CBEA-3A2E-AE4F-9542C77107A0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
